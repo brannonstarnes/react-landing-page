@@ -11,7 +11,7 @@ export default function NavigationBar(){
             <NavBarWrap>
                 <Navbar bg="dark" variant="dark" className='navbar' >
                     <Container>
-                        <Navbar.Brand href="#home" className='logo'>The Dive Company</Navbar.Brand>
+                        <Navbar.Brand href="#home" className='logo'>The Travel Company</Navbar.Brand>
                         <Nav className="ml-auto">
                             <Nav.Link href="#home">Home</Nav.Link>
                             <Nav.Link href="#features">Services</Nav.Link>

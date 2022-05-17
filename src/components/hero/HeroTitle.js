@@ -5,7 +5,7 @@ export default function HeroTitle(){
 
     return (
         <div>
-            <h1>Hero Title Here</h1>
+            <h2>Unforgettable Experiences. Travel that stays with you.</h2>
         </div>
     )
 };
