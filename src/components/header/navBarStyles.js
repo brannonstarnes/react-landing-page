@@ -6,7 +6,8 @@ export const NavBarWrap = styled.div`
         display: flex;
         flex-flow: row nowrap;
         justify-content: space-between;
-        min-width: 100vw;
+        width: 100vw;
+
         }
 
     .logo{
